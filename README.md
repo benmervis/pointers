@@ -3,7 +3,7 @@ pointer applications
 
 #include <stdio.h>
 #include <stdlib.h>
-
+gorkemkaramolla
 
 int main(int argc, char *argv[]) {
 	
